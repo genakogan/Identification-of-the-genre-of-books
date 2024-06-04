@@ -11,3 +11,5 @@ During the processing, we have applied the following steps: (1) using a custom P
 The set of complete books and book chunks is available at the following google drive repository (due to its size):
 
 # https://drive.google.com/drive/folders/1rnpMl39yOpsYTaE6ZGzk5nHQRU2dOASB?usp=sharing
+
+Pythons script used for data collection is provided in downloadBooks_knigogo.py
