@@ -13,3 +13,9 @@ The set of complete books and book chunks is available at the following google d
 # https://drive.google.com/drive/folders/1rnpMl39yOpsYTaE6ZGzk5nHQRU2dOASB?usp=sharing
 
 Pythons script used for data collection is provided in downloadBooks_knigogo.py
+
+The dataset is descibed and evaluated in the paper:
+
+Genre Classification of Books in Russian with Stylometric Features: a Case Study,
+Natalia Vanetik, Margarita Tiamanova, Genady Kogan, Marina Litvak,
+to appear in Information.
