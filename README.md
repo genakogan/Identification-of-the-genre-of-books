@@ -18,4 +18,17 @@ The dataset is descibed and evaluated in the paper:
 
 Genre Classification of Books in Russian with Stylometric Features: a Case Study,
 Natalia Vanetik, Margarita Tiamanova, Genady Kogan, Marina Litvak,
-to appear in Information.
+
+If you use or reference this dataset, please cite:
+
+@article{vanetik2024genre,
+  title={Genre Classification of Books in Russian with Stylometric Features: A Case Study},
+  author={Vanetik, Natalia and Tiamanova, Margarita and Kogan, Genady and Litvak, Marina},
+  journal={Information},
+  volume={15},
+  number={6},
+  pages={340},
+  year={2024},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
